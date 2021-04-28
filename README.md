@@ -7,6 +7,6 @@
 - Internet
   - [计算机网络](/Internet/计算机网络%20-%20目录.md)
 - Git
-  - [同一台电脑怎样配置并使用多个git账号](/Git/同一台电脑怎样配置并使用多个git账号.md)
+  - [同一台电脑怎样配置并使用多个git账号](/Git/同一台电脑怎么配置并使用多个git账号.md)
 
 ![img](https://roadmap.sh/roadmaps/backend.png)
